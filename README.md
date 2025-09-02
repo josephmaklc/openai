@@ -9,4 +9,4 @@ Modify the python file as you see fit... to do chat completion or get a response
 
 I asked "Who is Bruce Lee", followed by "When did he die"
 
-<img src="screenshot/image1.png" width="200">
+<img src="screenshot/image1.png" width="500">
